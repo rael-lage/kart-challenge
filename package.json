@@ -1,0 +1,16 @@
+{
+  "name": "kart-challenge",
+  "version": "1.0.0",
+  "description": "Kart code challenge",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "rael-lage",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0"
+  }
+}

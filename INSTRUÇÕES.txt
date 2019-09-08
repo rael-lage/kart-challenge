@@ -1,0 +1,6 @@
+Pré-req
+node js instalado
+
+Rodar
+1 - npm install
+2 - npm run start
