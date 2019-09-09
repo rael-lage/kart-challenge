@@ -1,10 +1,10 @@
-let logReader = require('./middleware/log-reader');
-let logParser = require('./middleware/log-parser');
-let organizer = require('./services/organizer');
-let mapper = require('./services/mapper')
-let result = require('./reports/result')
+const logReader = require('./middleware/log-reader');
+const logParser = require('./middleware/log-parser');
+const organizer = require('./services/organizer');
+const mapper = require('./services/mapper');
+const result = require('./reports/result');
 
-let filePath = 'corrida.log';
+const filePath = 'corrida.log';
 
 let fileData = logReader(filePath);
 let parsedData = logParser(fileData);

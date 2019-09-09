@@ -28,7 +28,11 @@ Não obrigatório. Faça apenas caso se identifique com o problema ou se achar q
 ************************************************************************
 * Descobrir quanto tempo cada piloto chegou após o vencedor
 
+TEST
+------------
+npm test
+
 RUN
 ------------
 * npm install
-* npm run start
+* npm start
