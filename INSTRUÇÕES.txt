@@ -1,6 +1,9 @@
 Pré-req
 node js instalado
 
+Testar
+1 - npm test
+
 Rodar
 1 - npm install
-2 - npm run start
+2 - npm start
