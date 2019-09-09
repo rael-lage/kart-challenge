@@ -30,7 +30,7 @@ Não obrigatório. Faça apenas caso se identifique com o problema ou se achar q
 
 TEST
 ------------
-npm test
+* npm test
 
 RUN
 ------------
